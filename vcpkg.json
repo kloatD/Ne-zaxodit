@@ -1,0 +1,9 @@
+{
+  "name": "stealer",
+  "version": "1.0.0",
+  "dependencies": [
+    { "name": "curl", "features": ["ssl", "static"] },
+    "openssl",
+    "sqlite3"
+  ]
+}
